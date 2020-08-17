@@ -1,0 +1,1 @@
+This is a file that has linked a github repository with a local directory. It necessitated using the terminal to create folders, link projects, and manipulate files. 
